@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/VMs/DevOps course/vagrant-vms/jenkinsServer","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/Projects/Devops projects/Jenkins Pipeline CI","disabled":false,"__vagrantfile":true}}}
